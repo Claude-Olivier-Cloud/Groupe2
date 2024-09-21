@@ -1,6 +1,6 @@
 # Groupe2
 
-Présentation des membres du groupe de travail​
+# Présentation des membres du groupe de travail​
 
 Claude-Olivier​
 
@@ -10,7 +10,7 @@ Michaël Batungwanayo​
 
 Antoine Blairon​
 
- Lockbit​
+# Lockbit​
 
 Qu'est-ce que c'est ? ( présenté par Antoine)​
 
