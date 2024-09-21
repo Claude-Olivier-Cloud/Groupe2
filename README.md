@@ -27,11 +27,7 @@ Groupe 2
 
 #### Claude-Olivier
 
-- Senior Asset Manager à la STIB depuis 2016. Actif depuis 2005
-
-#### essentiellement dans le contrôle-commande des réseaux Haute
-
-#### Tension ainsi que la signalisation et automatismes ferroviaire.
+- Senior Asset Manager à la STIB depuis 2016. Actif depuis 2005 essentiellement dans le contrôle-commande des réseaux Haute Tension ainsi que la signalisation et automatismes ferroviaire.
 
 - Ingénieur Civil en Informatique et Gestion (UMons - 2013) &
 
