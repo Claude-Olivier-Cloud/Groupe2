@@ -12,13 +12,13 @@ Antoine Blairon​
 
 # Lockbit​
 
-Qu'est-ce que c'est ? ( présenté par Antoine)​
+1.'est-ce que c'est ? ( présenté par Antoine)​
 
-Vulnérabilité exploitée(présenté par Michaël)​
+2.Vulnérabilité exploitée(présenté par Michaël)​
 
-Impacts de cette attaque (présenté par Sébastien)​
+2.Impacts de cette attaque (présenté par Sébastien)​
 
-Remédiation mise en œuvre (présenté par Claude-Olivier)​
+2.Remédiation mise en œuvre (présenté par Claude-Olivier)​
 
 Conséquences pour Lockbit (présenté par Sébastien)​
 
