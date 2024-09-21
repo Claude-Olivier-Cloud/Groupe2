@@ -35,7 +35,7 @@ Groupe 2
 
 - Ingénieur Civil en Informatique et Gestion (UMons - 2013) &
 
-#### Ingénieur Industriel en Électricité (ISIB - 2004)
+- Ingénieur Industriel en Électricité (ISIB - 2004)
 
 - Technologies préférées: C#, C++, C, Python, CPLEX
 
@@ -44,13 +44,9 @@ Groupe 2
 
 #### Sébastien
 
-- Bachelier en Informatique de Gestion et Certificat d'Aptitude
+- Bachelier en Informatique de Gestion et Certificat d'Aptitude Pédagogique
 
-#### Pédagogique
-
-- Enseignant à l'INRACI en 4ème/5ème année en informatique
-
-#### industrielle
+- Enseignant à l'INRACI en 4ème/5ème année en informatique industrielle
 
 - Technologies préférées: C#, Javascript (React), Python
 
@@ -60,16 +56,10 @@ Groupe 2
 #### Michaël
 
 - 2 Bachelors : Informatique de gestion & Gestion Marketing
-- J'ai travaillé dans le commerce, puis comme développeur
-
-#### Fullstack d'applications web(Framework PHP Laravel, VueJS,
-
-#### ReactJS).
-
+- J'ai travaillé dans le commerce, puis comme développeur Fullstack d'applications web(Framework PHP Laravel,VueJS,
+ ReactJS).
 - Bonnes connaissances en Java, Python, C#, C/C++, Angular.
-- Linuxien (mon principal système d'exploitation depuis 10 ans). À
-
-#### l'aise avec le terminal :-).
+- Linuxien (mon principal système d'exploitation depuis 10 ans). À l'aise avec le terminal :-).
 
 
 ## 1. Présentation des membres du groupe
